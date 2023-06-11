@@ -2,9 +2,12 @@
     <div class="nav-container">
         <a href="/" class="nav-logo" title="Back to Homepage">Сергей Стерхов</a>
         <div class="nav-links">
-            {#if link.isShow}
+            {#each nav as link}
             <a href={link.href} class="link">{link.title}</a>
-            {/if}
+            {/each}
+            <!-- {#if link.isShow}
+            <a href={link.href} class="link">{link.title}</a>
+            {/if} -->
         </div>
     </div>
 </nav>
