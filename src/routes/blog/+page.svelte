@@ -9,7 +9,7 @@
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
                 <p class="readmore">
-                    <a href={'/blog/posts/1'} class="link">
+                    <a href={'/blog/posts/{page.id}'} class="link">
                         Читать далее
                     </a>
                 </p>
