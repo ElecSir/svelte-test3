@@ -1,3 +1,7 @@
+<svg viewBox="0 0 24 24" class={$$props.class}>
+    {@html icon.path}
+</svg>
+
 <script>
     export let name;
     const icons = [
