@@ -101,5 +101,6 @@
 
     h2{
         font-weight: 300;
+        font-size: 1rem;
     }
 </style>
