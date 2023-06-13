@@ -1,10 +1,12 @@
 <h1>Учет расходов</h1>
 
-<label>Название
-    <input type="text">
+<label>
+    <h2>Название</h2>
+    <input bind:value={newName} type="text">
 </label>
-<label>Сумма
-    <input type="text">
+<label>
+    <h2>Сумма</h2>
+    <input bind:value={newAmount} type="number">
     <button on:click={() => addExpense()}>Добавить</button>
 </label>
 
@@ -95,5 +97,9 @@
     h1{
         font-size: 32px;
         margin-bottom: 20px;
+    }
+
+    h2{
+        font-weight: 300;
     }
 </style>
