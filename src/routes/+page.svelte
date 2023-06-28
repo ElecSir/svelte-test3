@@ -54,7 +54,6 @@
     .info h1 p{
         position: relative;
         font: inherit;
-        margin: 0;
         text-align: left;
         line-height: 130%;
         width: fit-content;
