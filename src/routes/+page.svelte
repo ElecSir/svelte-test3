@@ -13,7 +13,7 @@
                 <h2 class="subtitle">Ежегодный справочник, раскрывающий информацию о рекордных достижениях людей и животных, уникальных природных явлениях, выдающихся достижениях шоу-бизнеса, СМИ и культуры.</h2>
                 <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
                 <div style="color: black;" class="scroll-button animate-scroll" tabindex="0">
-                    <a href="/about">Click Here</a>
+                    <a href="/story">Click Here</a>
                     <div class="arrow">&rarr;</div>
                 </div>
             </div>
@@ -23,6 +23,10 @@
 <div class="background-div"></div>
 
 <style>
+    .animate-text-1{
+        margin-bottom: 100px;
+    }
+
     .info{
         text-align: center;
         position: relative;
