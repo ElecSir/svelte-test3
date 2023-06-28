@@ -20,29 +20,19 @@
 <script>
     const nav = [
         {
-            title: 'Обо мне',
-            href: '/about',
+            title: 'История создания',
+            href: '/story',
             isShow: true,
         },
         {
-            title: 'Блог',
-            href: '/blog',
+            title: 'Специальные издания',
+            href: '/special',
             isShow: true,
         },
         {
-            title: 'Портфолио',
-            href: '/project',
+            title: 'Курьёзные рекорды',
+            href: '/strange records',
             isShow: true,
-        },
-        {
-            title: 'Контакты',
-            href: '/contact',
-            isShow: true,
-        },
-        {
-            title: 'temp',
-            href: '/temp',
-            isShow: false,
         },
     ];
 </script>
