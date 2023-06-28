@@ -7,7 +7,7 @@
             <div class="container info-container">
                 <div class="info-text">
                     <h1> 
-                        <p class="animate-text-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="animate-text-1">Книга рекордов Гиннеса</p>
                         <p class="text-2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non totam sit necessitatibus inventore </p>
                     </h1>
                 </div>
