@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Сергей Стерхо</title>
+    <title>Книга рекордов Гиннеса</title>
 </svelte:head>
 <div class="container">
     <div class="info">

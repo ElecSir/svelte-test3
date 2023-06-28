@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-container">
-        <a href="/" class="nav-logo" title="Back to Homepage">Сергей Стерхов</a>
+        <a href="/" class="nav-logo" title="Back to Homepage"><img src="../pictures/logo.png" alt="logo"></a>
         <div class="nav-links">
             {#each nav as link}
             <a href={link.href} class="link">{link.title}</a>
