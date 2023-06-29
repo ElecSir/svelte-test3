@@ -1,8 +1,6 @@
 <nav>
     <div class="nav-container">
-        <a href="/" class="nav-logo" title="Back to Homepage">Книга рекордов Гиннеса
-            <Logo name="logo"/>
-        </a>
+        <a href="/" class="nav-logo" title="Back to Homepage">Книга рекордов Гиннеса</a>
         <div class="nav-links">
             {#each nav as link}
             <a href={link.href} class="link">{link.title}</a>
@@ -37,8 +35,6 @@
             isShow: true,
         },
     ];
-
-    import Logo from '../logo/Logo.svelte';
 </script>
 
 <style>
