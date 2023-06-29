@@ -1,3 +1,3 @@
-<h1>My First Blog Post</h1>
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat, similique. Est amet voluptatum magnam ad architecto aliquid, tenetur maxime veniam quibusdam provident, nihil ducimus pariatur magni, asperiores aut voluptatem laudantium.</p>
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus minus similique enim quod, incidunt modi sapiente doloribus ut veniam optio repellendus, sed recusandae, voluptatem error vitae vel dolorum magnam quaerat!</p>
+<h1>Книга рекордов Гиннесса. Геймеры</h1>
+<p>В 2008 году, совместно с Twin Galaxies, Guinness World Records выпустили специальное издание, посвящённое рекордам, установленным геймерами. Издание получило название «Книга рекордов Гиннесса. Геймеры», имело 256 страниц и включало 1 236 мировых рекордов, связанных с видеоиграми, а также 4 интервью, в том числе с основателем Twin Galaxies Уолтером Деем. </p>
+<p>Игровые рекорды включали самое большое количество очков, набранное в какой-нибудь игре, рекорды продаж популярных игр, самые длительные игровые процессы и др. Кроме того, в выпуске публиковалась дополнительная информация — игровые новости, подсказки, особенности геймплея, описания игровых аппаратных средств, интервью с создателями. На 2015 год всего вышло восемь выпусков специального издания — выход книги, как правило, приходился на декабрь-январь.</p>

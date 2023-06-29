@@ -1,3 +1,3 @@
-<h1>My Second Blog Post</h1>
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat, similique. Est amet voluptatum magnam ad architecto aliquid, tenetur maxime veniam quibusdam provident, nihil ducimus pariatur magni, asperiores aut voluptatem laudantium.</p>
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus minus similique enim quod, incidunt modi sapiente doloribus ut veniam optio repellendus, sed recusandae, voluptatem error vitae vel dolorum magnam quaerat!</p>
+<h1>Британская поп-музыка</h1>
+<p>С 2004 по 2008 год в свет выходили ежегодные издания «Книги рекордов Гиннесса», посвящённые лучшим британским поп-синглам и альбомам. Каждый выпуск был основан на двух более ранних изданиях, British Hit Singles и British Hit Albums, издаваемых с 1977 года.</p>
+<p>В 2008 году серия (а точнее, часть, посвящённая синглам) была заменена на издание Virgin Book of British Hit Singles.</p>
